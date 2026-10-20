@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338791Z
+addr = 0x37fe60
+size = 0x169
+name = "CHostStateMgr_RequestHS_PlayDemo"
+type = "long long"
+
+[header]
+name = "CHostStateMgr_RequestHS_PlayDemo"
+addr = 0x37fe60
+type = "long long"
+
+[header.args]

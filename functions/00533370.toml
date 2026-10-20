@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339157Z
+addr = 0x533370
+size = 0x2ab
+name = "CServerSideClientBase_ClientPrintf"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_ClientPrintf"
+addr = 0x533370
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:46.931152Z
+addr = 0x50b390
+size = 0x3f1
+name = "CNetworkGameServerBase_CheckTimeouts"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_CheckTimeouts"
+addr = 0x50b390
+type = "long long"
+
+[header.args]

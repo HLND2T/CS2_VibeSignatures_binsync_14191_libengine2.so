@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338956Z
+addr = 0x4c7020
+size = 0x16a
+name = "CNetworkGameClientBase_Connect"
+type = "long long"
+
+[header]
+name = "CNetworkGameClientBase_Connect"
+addr = 0x4c7020
+type = "long long"
+
+[header.args]

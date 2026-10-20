@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339183Z
+addr = 0x5384b0
+size = 0x1f1
+name = "CServerSideClientBase_ShouldSendMessages"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_ShouldSendMessages"
+addr = 0x5384b0
+type = "long long"
+
+[header.args]

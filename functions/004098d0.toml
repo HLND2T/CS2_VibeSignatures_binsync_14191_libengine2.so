@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338864Z
+addr = 0x4098d0
+size = 0x56
+name = "CNetworkServerService_SetFinalSimulationTickThisFrame"
+type = "long long"
+
+[header]
+name = "CNetworkServerService_SetFinalSimulationTickThisFrame"
+addr = 0x4098d0
+type = "long long"
+
+[header.args]

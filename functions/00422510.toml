@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338894Z
+addr = 0x422510
+size = 0x8
+name = "CNetworkClientService_GetDisconnectReason"
+type = "const char *"
+
+[header]
+name = "CNetworkClientService_GetDisconnectReason"
+addr = 0x422510
+type = "const char *"
+
+[header.args]

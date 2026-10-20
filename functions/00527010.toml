@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339100Z
+addr = 0x527010
+size = 0x20
+name = "CEngineServer_ServerCommand"
+type = "long long"
+
+[header]
+name = "CEngineServer_ServerCommand"
+addr = 0x527010
+type = "long long"
+
+[header.args]

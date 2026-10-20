@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338803Z
+addr = 0x3846b0
+size = 0x864
+name = "CLoopTypeClientServer_WritePerfStats"
+type = "long long"
+
+[header]
+name = "CLoopTypeClientServer_WritePerfStats"
+addr = 0x3846b0
+type = "long long"
+
+[header.args]

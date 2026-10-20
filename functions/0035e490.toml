@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338727Z
+addr = 0x35e490
+size = 0x1fc
+name = "InitSteam"
+type = "long long"
+
+[header]
+name = "InitSteam"
+addr = 0x35e490
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338773Z
+addr = 0x378bc0
+size = 0x6f9
+name = "CGameEventSystem_UnregisterGameEventHandlerAbstract"
+type = "unsigned long long **"
+
+[header]
+name = "CGameEventSystem_UnregisterGameEventHandlerAbstract"
+addr = 0x378bc0
+type = "unsigned long long **"
+
+[header.args]

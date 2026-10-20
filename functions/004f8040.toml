@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:09:44.338998Z
+addr = 0x4f8040
+size = 0x40
+name = "CEngineClient_IsPlayingDemo"
+
+[header]
+name = "CEngineClient_IsPlayingDemo"
+addr = 0x4f8040
+
+[header.args]

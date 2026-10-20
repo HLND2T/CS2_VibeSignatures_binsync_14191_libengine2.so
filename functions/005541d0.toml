@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:47.366822Z
+addr = 0x5541d0
+size = 0x299
+name = "CNetworkGameServer_WriteClassInfosAndSerializesToBuffer"
+type = "long long"
+
+[header]
+name = "CNetworkGameServer_WriteClassInfosAndSerializesToBuffer"
+addr = 0x5541d0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338958Z
+addr = 0x4cb970
+size = 0x1ac
+name = "CNetworkGameClientBase_DeferActivate"
+type = "long long (__fastcall *)(long long, unsigned long long)"
+
+[header]
+name = "CNetworkGameClientBase_DeferActivate"
+addr = 0x4cb970
+type = "long long (__fastcall *)(long long, unsigned long long)"
+
+[header.args]

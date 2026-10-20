@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:46.526780Z
+addr = 0x409ac0
+size = 0x119a
+name = "CNetworkServerService_Init"
+type = "long long"
+
+[header]
+name = "CNetworkServerService_Init"
+addr = 0x409ac0
+type = "long long"
+
+[header.args]

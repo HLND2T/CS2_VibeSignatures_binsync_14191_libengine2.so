@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:46.708725Z
+addr = 0x4b5be0
+size = 0x4c4
+name = "CConnectGameClient_CheckForResend"
+type = "void"
+
+[header]
+name = "CConnectGameClient_CheckForResend"
+addr = 0x4b5be0
+type = "void"
+
+[header.args]

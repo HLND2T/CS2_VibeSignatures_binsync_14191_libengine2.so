@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:47.386866Z
+addr = 0x58b440
+size = 0x146
+name = "CBaseSpawnGroup_PrecacheGameSystems"
+type = "long long"
+
+[header]
+name = "CBaseSpawnGroup_PrecacheGameSystems"
+addr = 0x58b440
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339108Z
+addr = 0x527e40
+size = 0x3f
+name = "CEngineServer_GetPlayerInfo"
+type = "long long"
+
+[header]
+name = "CEngineServer_GetPlayerInfo"
+addr = 0x527e40
+type = "long long"
+
+[header.args]

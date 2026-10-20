@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338865Z
+addr = 0x409930
+size = 0x8c
+name = "CNetworkServerService_OnKickByIdHLTV"
+type = "long long"
+
+[header]
+name = "CNetworkServerService_OnKickByIdHLTV"
+addr = 0x409930
+type = "long long"
+
+[header.args]

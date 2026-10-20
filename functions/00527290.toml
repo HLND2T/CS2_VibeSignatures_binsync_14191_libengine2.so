@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:09:44.339103Z
+addr = 0x527290
+size = 0x20
+name = "CEngineServer_GetServerGlobals"
+
+[header]
+name = "CEngineServer_GetServerGlobals"
+addr = 0x527290
+
+[header.args]

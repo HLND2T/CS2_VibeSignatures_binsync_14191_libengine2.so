@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338756Z
+addr = 0x3711e0
+size = 0xf4
+name = "CEngineServiceMgr_GetActiveLoop"
+type = "long long"
+
+[header]
+name = "CEngineServiceMgr_GetActiveLoop"
+addr = 0x3711e0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338795Z
+addr = 0x3802f0
+size = 0x1cc
+name = "CHostStateMgr_RequestHS_RestartSpawnGroups"
+type = "long long"
+
+[header]
+name = "CHostStateMgr_RequestHS_RestartSpawnGroups"
+addr = 0x3802f0
+type = "long long"
+
+[header.args]

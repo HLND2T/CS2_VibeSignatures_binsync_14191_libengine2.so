@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:47.297687Z
+addr = 0x53a800
+size = 0x4ca
+name = "CServerSideClientBase_ProcessSignonStateMsg"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_ProcessSignonStateMsg"
+addr = 0x53a800
+type = "long long"
+
+[header.args]

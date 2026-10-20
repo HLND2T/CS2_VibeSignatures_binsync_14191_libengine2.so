@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:46.249873Z
+addr = 0x3704d0
+size = 0xbb
+name = "CEngineServiceMgr_Shutdown"
+type = "long long"
+
+[header]
+name = "CEngineServiceMgr_Shutdown"
+addr = 0x3704d0
+type = "long long"
+
+[header.args]

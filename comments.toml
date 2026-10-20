@@ -1,0 +1,832 @@
+[0x358150]
+last_change = 2026-10-20T15:09:46.216222Z
+addr = 0x358150
+func_addr = 0x3580b0
+comment = "0x198 = 408LL = INetworkSystem_InitNetworkSystem"
+decompiled = false
+
+[0x35814d]
+last_change = 2026-10-20T15:09:46.217190Z
+addr = 0x35814d
+func_addr = 0x3580b0
+comment = "0x198 = 408LL = INetworkSystem_InitNetworkSystem"
+decompiled = true
+
+[0x36ff1d]
+last_change = 2026-10-20T15:09:46.234904Z
+addr = 0x36ff1d
+func_addr = 0x36ff00
+comment = "0x60 = 96LL = CLoopTypeBase_GetClientServerMode"
+decompiled = true
+
+[0x370503]
+last_change = 2026-10-20T15:09:46.249873Z
+addr = 0x370503
+func_addr = 0x3704d0
+comment = "0x20 = 32LL = CLoopTypeBase_LoopTypeShutdown"
+decompiled = true
+
+[0x37061c]
+last_change = 2026-10-20T15:09:46.253651Z
+addr = 0x37061c
+func_addr = 0x3705d0
+comment = "0x50 = 80LL = CLoopTypeBase_GetImplType"
+decompiled = false
+
+[0x370622]
+last_change = 2026-10-20T15:09:46.254599Z
+addr = 0x370622
+func_addr = 0x3705d0
+comment = "0x50 = 80LL = CLoopTypeBase_GetImplType"
+decompiled = true
+
+[0x3746d3]
+last_change = 2026-10-20T15:09:46.276247Z
+addr = 0x3746d3
+func_addr = 0x374470
+comment = "0x30 = 48LL = CLoopTypeBase_DeallocateLoopMode"
+decompiled = true
+
+[0x379ac9]
+last_change = 2026-10-20T15:09:46.310040Z
+addr = 0x379ac9
+func_addr = 0x379a40
+comment = "0x70 = 112LL = IGameEventSystem_PostEventAbstract_Local"
+decompiled = true
+
+[0x38225e]
+last_change = 2026-10-20T15:09:46.362618Z
+addr = 0x38225e
+func_addr = 0x382220
+comment = "0x58 = 88LL = IEngineService_GetServiceDependencies"
+decompiled = true
+
+[0x38245c]
+last_change = 2026-10-20T15:09:46.362637Z
+addr = 0x38245c
+func_addr = 0x382220
+comment = "0x60 = 96LL = IEngineService_GetName"
+decompiled = true
+
+[0x390cc9]
+last_change = 2026-10-20T15:09:46.400326Z
+addr = 0x390cc9
+func_addr = 0x3909a0
+comment = "0x0 = 0LL = ILoopType_AddEngineService"
+decompiled = true
+
+[0x39a2d6]
+last_change = 2026-10-20T15:09:46.404115Z
+addr = 0x39a2d6
+func_addr = 0x39a1f0
+comment = "0xF0 = 240LL = ISource2Server_GetActiveWorldName"
+decompiled = false
+
+[0x39a2dc]
+last_change = 2026-10-20T15:09:46.405086Z
+addr = 0x39a2dc
+func_addr = 0x39a1f0
+comment = "0xF0 = 240LL = ISource2Server_GetActiveWorldName"
+decompiled = true
+
+[0x39d647]
+last_change = 2026-10-20T15:09:46.411690Z
+addr = 0x39d647
+func_addr = 0x39d500
+comment = "0xB0 = 176LL = INetworkGameServer_GetTimescale"
+decompiled = false
+
+[0x39d682]
+last_change = 2026-10-20T15:09:46.411702Z
+addr = 0x39d682
+func_addr = 0x39d500
+comment = "0x38 = 56LL = CNetworkGameServerBase_GetGlobals"
+decompiled = true
+
+[0x39d644]
+last_change = 2026-10-20T15:09:46.412679Z
+addr = 0x39d644
+func_addr = 0x39d500
+comment = "0xB0 = 176LL = INetworkGameServer_GetTimescale"
+decompiled = true
+
+[0x3a8c3f]
+last_change = 2026-10-20T15:09:46.423131Z
+addr = 0x3a8c3f
+func_addr = 0x3a8b80
+comment = "0xC8 = 200LL = INetworkSystem_PrintNetworkStats"
+decompiled = true
+
+[0x3a8f1b]
+last_change = 2026-10-20T15:09:46.423143Z
+addr = 0x3a8f1b
+func_addr = 0x3a8b80
+comment = "0x168 = 360LL = ISource2Server_UpdateWhenNotInGame"
+decompiled = true
+
+[0x3d2043]
+last_change = 2026-10-20T15:09:46.445782Z
+addr = 0x3d2043
+func_addr = 0x3d1fa0
+comment = "0x50 = 80LL = CGameResourceService::m_pEntitySystem"
+decompiled = true
+
+[0x403004]
+last_change = 2026-10-20T15:09:46.491563Z
+addr = 0x403004
+func_addr = 0x402fb0
+comment = "0x130 = 304LL = INetworkGameServer_GetSpawnGroupLoadingStatus"
+decompiled = true
+
+[0x4097f9]
+last_change = 2026-10-20T15:09:46.515175Z
+addr = 0x4097f9
+func_addr = 0x4097c0
+comment = "0x110 = 272LL = IEngineServiceMgr_IsInGameLoop"
+decompiled = false
+
+[0x409801]
+last_change = 2026-10-20T15:09:46.516178Z
+addr = 0x409801
+func_addr = 0x4097c0
+comment = "0x110 = 272LL = IEngineServiceMgr_IsInGameLoop"
+decompiled = true
+
+[0x409af4]
+last_change = 2026-10-20T15:09:46.526780Z
+addr = 0x409af4
+func_addr = 0x409ac0
+comment = "0xF8 = 248LL = INetworkMessages_SetIsForServer"
+decompiled = true
+
+[0x40d83f]
+last_change = 2026-10-20T15:09:46.538528Z
+addr = 0x40d83f
+func_addr = 0x40d800
+comment = "0x78 = 120LL = INetworkGameServer_ServerProcessNetworking"
+decompiled = true
+
+[0x41011f]
+last_change = 2026-10-20T15:09:46.554184Z
+addr = 0x41011f
+func_addr = 0x410090
+comment = "0x90 = 144LL = INetworkGameServer_ServerPostSimulate"
+decompiled = true
+
+[0x411cb0]
+last_change = 2026-10-20T15:09:46.558429Z
+addr = 0x411cb0
+func_addr = 0x411c40
+comment = "0x20 = 32LL = CWaitForInitialSpawnGroupsPrerequisite_GetStatus"
+decompiled = true
+
+[0x414856]
+last_change = 2026-10-20T15:09:46.570826Z
+addr = 0x414856
+func_addr = 0x414800
+comment = "0x1D8 = 472LL = INetworkGameServer_PreWorldUpdate"
+decompiled = true
+
+[0x418452]
+last_change = 2026-10-20T15:09:46.582884Z
+addr = 0x418452
+func_addr = 0x4183d0
+comment = "0x70 = 112LL = INetworkSystem_OpenSocket"
+decompiled = true
+
+[0x43a4b1]
+last_change = 2026-10-20T15:09:46.666217Z
+addr = 0x43a4b1
+func_addr = 0x43a450
+comment = "0x168 = 360LL = INetworkSystem_GetSteamNetworkingMessages"
+decompiled = true
+
+[0x441ea3]
+last_change = 2026-10-20T15:09:46.670085Z
+addr = 0x441ea3
+func_addr = 0x441d40
+comment = "0x118 = 280LL = IEngineServiceMgr_OnFrameRenderingFinished"
+decompiled = true
+
+[0x4638b7]
+last_change = 2026-10-20T15:09:46.685123Z
+addr = 0x4638b7
+func_addr = 0x463860
+comment = "0x0 = 0LL = ILoopModePrerequisiteRegistry_RegisterPrerequisite"
+decompiled = true
+
+[0x48da79]
+last_change = 2026-10-20T15:09:46.688937Z
+addr = 0x48da79
+func_addr = 0x48da00
+comment = "0x38 = 56LL = INetworkMessages_SerializeAbstract"
+decompiled = false
+
+[0x48da8d]
+last_change = 2026-10-20T15:09:46.688953Z
+addr = 0x48da8d
+func_addr = 0x48da00
+comment = "0x60 = 96LL = INetworkMessages_GetNetMessageInfo"
+decompiled = false
+
+[0x48da94]
+last_change = 2026-10-20T15:09:46.689891Z
+addr = 0x48da94
+func_addr = 0x48da00
+comment = "0x60 = 96LL = INetworkMessages_GetNetMessageInfo"
+decompiled = true
+
+[0x48db3b]
+last_change = 2026-10-20T15:09:46.689903Z
+addr = 0x48db3b
+func_addr = 0x48da00
+comment = "0x38 = 56LL = INetworkMessages_SerializeAbstract"
+decompiled = true
+
+[0x49a5e6]
+last_change = 2026-10-20T15:09:46.692701Z
+addr = 0x49a5e6
+func_addr = 0x49a220
+comment = "0xF0 = 240LL = INetworkMessages_FindNetworkMessageById"
+decompiled = false
+
+[0x49a5fd]
+last_change = 2026-10-20T15:09:46.693654Z
+addr = 0x49a5fd
+func_addr = 0x49a220
+comment = "0xF0 = 240LL = INetworkMessages_FindNetworkMessageById"
+decompiled = true
+
+[0x4a8af0]
+last_change = 2026-10-20T15:09:46.700201Z
+addr = 0x4a8af0
+func_addr = 0x4a8990
+comment = "0x78 = 120LL = INetworkMessages_FindNetworkGroup"
+decompiled = false
+
+[0x4a8af6]
+last_change = 2026-10-20T15:09:46.701155Z
+addr = 0x4a8af6
+func_addr = 0x4a8990
+comment = "0x78 = 120LL = INetworkMessages_FindNetworkGroup"
+decompiled = true
+
+[0x4b5c19]
+last_change = 2026-10-20T15:09:46.707736Z
+addr = 0x4b5c19
+func_addr = 0x4b5be0
+comment = "0x150 = 336LL = INetworkSystem_GetSteamUserNetworkingSockets"
+decompiled = false
+
+[0x4b5c25]
+last_change = 2026-10-20T15:09:46.708725Z
+addr = 0x4b5c25
+func_addr = 0x4b5be0
+comment = "0x150 = 336LL = INetworkSystem_GetSteamUserNetworkingSockets"
+decompiled = true
+
+[0x4da00f]
+last_change = 2026-10-20T15:09:46.760308Z
+addr = 0x4da00f
+func_addr = 0x4d9b60
+comment = "this"
+decompiled = false
+
+[0x4da01b]
+last_change = 2026-10-20T15:09:46.760332Z
+addr = 0x4da01b
+func_addr = 0x4d9b60
+comment = "this"
+decompiled = false
+
+[0x4da027]
+last_change = 2026-10-20T15:09:46.760344Z
+addr = 0x4da027
+func_addr = 0x4d9b60
+comment = "this"
+decompiled = false
+
+[0x4de0e4]
+last_change = 2026-10-20T15:09:46.775481Z
+addr = 0x4de0e4
+func_addr = 0x4de080
+comment = "0x40 = 64LL = ICommandLine_ParmValue_char"
+decompiled = true
+
+[0x4ef7c4]
+last_change = 2026-10-20T15:09:46.801867Z
+addr = 0x4ef7c4
+func_addr = 0x4ef510
+comment = "0x18 = 24LL = INetworkMessages_Serialize"
+decompiled = false
+
+[0x4ef7d9]
+last_change = 2026-10-20T15:09:46.802840Z
+addr = 0x4ef7d9
+func_addr = 0x4ef510
+comment = "0x18 = 24LL = INetworkMessages_Serialize"
+decompiled = true
+
+[0x4f23c0]
+last_change = 2026-10-20T15:09:46.809422Z
+addr = 0x4f23c0
+func_addr = 0x4f2140
+comment = "0xF0 = 240LL = INetworkServerService_IsServerRunning"
+decompiled = false
+
+[0x4f23b3]
+last_change = 2026-10-20T15:09:46.810362Z
+addr = 0x4f23b3
+func_addr = 0x4f2140
+comment = "0xF0 = 240LL = INetworkServerService_IsServerRunning"
+decompiled = true
+
+[0x4f51af]
+last_change = 2026-10-20T15:09:46.816973Z
+addr = 0x4f51af
+func_addr = 0x4f5120
+comment = "0x130 = 304LL = IEngineServiceMgr_GetAddonCount"
+decompiled = false
+
+[0x4f51bc]
+last_change = 2026-10-20T15:09:46.817927Z
+addr = 0x4f51bc
+func_addr = 0x4f5120
+comment = "0x130 = 304LL = IEngineServiceMgr_GetAddonCount"
+decompiled = true
+
+[0x4faf00]
+last_change = 2026-10-20T15:09:46.843305Z
+addr = 0x4faf00
+func_addr = 0x4faeb0
+comment = "0xF8 = 248LL = IGameResourceService_FreeGameResourceManifest"
+decompiled = true
+
+[0x4fdc18]
+last_change = 2026-10-20T15:09:46.847126Z
+addr = 0x4fdc18
+func_addr = 0x4fdbd0
+comment = "0x130 = 304LL = IGameResourceService_AllocGameResourceManifest"
+decompiled = true
+
+[0x502915]
+last_change = 2026-10-20T15:09:46.862205Z
+addr = 0x502915
+func_addr = 0x502900
+comment = "0x108 = 264LL = INetworkSystem_GetLocalAdr"
+decompiled = false
+
+[0x502924]
+last_change = 2026-10-20T15:09:46.863161Z
+addr = 0x502924
+func_addr = 0x502900
+comment = "0x108 = 264LL = INetworkSystem_GetLocalAdr"
+decompiled = true
+
+[0x503cd0]
+last_change = 2026-10-20T15:09:46.888404Z
+addr = 0x503cd0
+func_addr = 0x503c70
+comment = "0xE0 = 224LL = INetworkGameServer_GetTime"
+decompiled = true
+
+[0x504e26]
+last_change = 2026-10-20T15:09:46.899849Z
+addr = 0x504e26
+func_addr = 0x504df0
+comment = "0x150 = 336LL = INetworkGameServer_IsChangelevelPending"
+decompiled = false
+
+[0x504e1c]
+last_change = 2026-10-20T15:09:46.900803Z
+addr = 0x504e1c
+func_addr = 0x504df0
+comment = "0x150 = 336LL = INetworkGameServer_IsChangelevelPending"
+decompiled = true
+
+[0x5068e1]
+last_change = 2026-10-20T15:09:46.907781Z
+addr = 0x5068e1
+func_addr = 0x5066b0
+comment = "0xA8 = 168LL = CServerSideClient_IsHearingClient"
+decompiled = true
+
+[0x508851]
+last_change = 2026-10-20T15:09:46.911534Z
+addr = 0x508851
+func_addr = 0x5087b0
+comment = "0xF8 = 248LL = INetworkGameServer_GetServerNetworkAddress"
+decompiled = true
+
+[0x50b457]
+last_change = 2026-10-20T15:09:46.930173Z
+addr = 0x50b457
+func_addr = 0x50b390
+comment = "0x260 = 608LL = CNetworkGameServerBase_IsHLTV"
+decompiled = false
+
+[0x50b480]
+last_change = 2026-10-20T15:09:46.930197Z
+addr = 0x50b480
+func_addr = 0x50b390
+comment = "0xC8 = 200LL = ISource2Server_ShouldTimeoutClient"
+decompiled = false
+
+[0x50b4a6]
+last_change = 2026-10-20T15:09:46.931152Z
+addr = 0x50b4a6
+func_addr = 0x50b390
+comment = "0xC8 = 200LL = ISource2Server_ShouldTimeoutClient"
+decompiled = true
+
+[0x50bed7]
+last_change = 2026-10-20T15:09:46.937779Z
+addr = 0x50bed7
+func_addr = 0x50be90
+comment = "0x2B8 = 696LL = CNetworkGameServerBase_GetChallengeType"
+decompiled = false
+
+[0x50c056]
+last_change = 2026-10-20T15:09:46.937800Z
+addr = 0x50c056
+func_addr = 0x50be90
+comment = "0x160 = 352LL = INetworkSystem_GetSteamNetworkingSockets"
+decompiled = false
+
+[0x50beea]
+last_change = 2026-10-20T15:09:46.938751Z
+addr = 0x50beea
+func_addr = 0x50be90
+comment = "0x2B8 = 696LL = CNetworkGameServerBase_GetChallengeType"
+decompiled = true
+
+[0x50c049]
+last_change = 2026-10-20T15:09:46.938770Z
+addr = 0x50c049
+func_addr = 0x50be90
+comment = "0x160 = 352LL = INetworkSystem_GetSteamNetworkingSockets"
+decompiled = true
+
+[0x5161b7]
+last_change = 2026-10-20T15:09:46.972134Z
+addr = 0x5161b7
+func_addr = 0x515ac0
+comment = "0x2C0 = 704LL = CNetworkGameServerBase_CheckPassword"
+decompiled = false
+
+[0x5161bd]
+last_change = 2026-10-20T15:09:46.973119Z
+addr = 0x5161bd
+func_addr = 0x515ac0
+comment = "0x2C0 = 704LL = CNetworkGameServerBase_CheckPassword"
+decompiled = true
+
+[0x51b047]
+last_change = 2026-10-20T15:09:46.987117Z
+addr = 0x51b047
+func_addr = 0x51afb0
+comment = "0x100 = 256LL = INetworkClientService_IsActive"
+decompiled = true
+
+[0x51b4d1]
+last_change = 2026-10-20T15:09:46.990873Z
+addr = 0x51b4d1
+func_addr = 0x51b420
+comment = "0x2C8 = 712LL = CNetworkGameServerBase_CalculateCPUUsage"
+decompiled = true
+
+[0x522168]
+last_change = 2026-10-20T15:09:47.047948Z
+addr = 0x522168
+func_addr = 0x522100
+comment = "0x60 = 96LL = INetworkGameServer_GetMaxClients"
+decompiled = true
+
+[0x5224eb]
+last_change = 2026-10-20T15:09:47.048000Z
+addr = 0x5224eb
+func_addr = 0x522100
+comment = "0x148 = 328LL = IEngineServiceMgr_GetAddonsString"
+decompiled = true
+
+[0x526c53]
+last_change = 2026-10-20T15:09:47.067020Z
+addr = 0x526c53
+func_addr = 0x526c20
+comment = "0xE8 = 232LL = ISource2Server_GetAllServerClasses"
+decompiled = false
+
+[0x526c59]
+last_change = 2026-10-20T15:09:47.067984Z
+addr = 0x526c59
+func_addr = 0x526c20
+comment = "0xE8 = 232LL = ISource2Server_GetAllServerClasses"
+decompiled = true
+
+[0x527eba]
+last_change = 2026-10-20T15:09:47.100855Z
+addr = 0x527eba
+func_addr = 0x527e80
+comment = "0x268 = 616LL = CNetworkGameServer::ClientList"
+decompiled = false
+
+[0x527edd]
+last_change = 2026-10-20T15:09:47.100891Z
+addr = 0x527edd
+func_addr = 0x527e80
+comment = "0x90 = 144LL = CServerSideClientBase_ClientPrintf"
+decompiled = false
+
+[0x527ec2]
+last_change = 2026-10-20T15:09:47.101837Z
+addr = 0x527ec2
+func_addr = 0x527e80
+comment = "0x268 = 616LL = CNetworkGameServer::ClientList"
+decompiled = true
+
+[0x527ef0]
+last_change = 2026-10-20T15:09:47.101859Z
+addr = 0x527ef0
+func_addr = 0x527e80
+comment = "0x90 = 144LL = CServerSideClientBase_ClientPrintf"
+decompiled = true
+
+[0x5322e4]
+last_change = 2026-10-20T15:09:47.199738Z
+addr = 0x5322e4
+func_addr = 0x532270
+comment = "0x48 = 72LL = CServerSideClientBase::m_nClientSlot"
+decompiled = false
+
+[0x5322e7]
+last_change = 2026-10-20T15:09:47.200728Z
+addr = 0x5322e7
+func_addr = 0x532270
+comment = "0x48 = 72LL = CServerSideClientBase::m_nClientSlot"
+decompiled = true
+
+[0x535710]
+last_change = 2026-10-20T15:09:47.248627Z
+addr = 0x535710
+func_addr = 0x5356b0
+comment = "0x120 = 288LL = ICvar_CopyUserInfoCvarDefaults"
+decompiled = true
+
+[0x535786]
+last_change = 2026-10-20T15:09:47.248676Z
+addr = 0x535786
+func_addr = 0x5356b0
+comment = "0x90 = 144LL = ISource2GameClients_ClientSetConVarUserInfoSet"
+decompiled = false
+
+[0x53578d]
+last_change = 2026-10-20T15:09:47.249671Z
+addr = 0x53578d
+func_addr = 0x5356b0
+comment = "0x90 = 144LL = ISource2GameClients_ClientSetConVarUserInfoSet"
+decompiled = true
+
+[0x539a61]
+last_change = 2026-10-20T15:09:47.290002Z
+addr = 0x539a61
+func_addr = 0x539290
+comment = "0x280 = 640LL = CNetworkGameServerBase_FillServerInfo"
+decompiled = true
+
+[0x53a837]
+last_change = 2026-10-20T15:09:47.297548Z
+addr = 0x53a837
+func_addr = 0x53a800
+comment = "jumptable 000000000053A886 default case, cases 0,1"
+decompiled = false
+
+[0x53a86d]
+last_change = 2026-10-20T15:09:47.297581Z
+addr = 0x53a86d
+func_addr = 0x53a800
+comment = "switch 7 cases"
+decompiled = false
+
+[0x53a886]
+last_change = 2026-10-20T15:09:47.297599Z
+addr = 0x53a886
+func_addr = 0x53a800
+comment = "switch jump"
+decompiled = false
+
+[0x53a898]
+last_change = 2026-10-20T15:09:47.297623Z
+addr = 0x53a898
+func_addr = 0x53a800
+comment = "jumptable 000000000053A886 case 6"
+decompiled = false
+
+[0x53a8d0]
+last_change = 2026-10-20T15:09:47.297639Z
+addr = 0x53a8d0
+func_addr = 0x53a800
+comment = "jumptable 000000000053A886 case 5"
+decompiled = false
+
+[0x53a900]
+last_change = 2026-10-20T15:09:47.297655Z
+addr = 0x53a900
+func_addr = 0x53a800
+comment = "jumptable 000000000053A886 case 4"
+decompiled = false
+
+[0x53a918]
+last_change = 2026-10-20T15:09:47.297671Z
+addr = 0x53a918
+func_addr = 0x53a800
+comment = "jumptable 000000000053A886 case 3"
+decompiled = false
+
+[0x53a940]
+last_change = 2026-10-20T15:09:47.297687Z
+addr = 0x53a940
+func_addr = 0x53a800
+comment = "jumptable 000000000053A886 case 2"
+decompiled = false
+
+[0x541579]
+last_change = 2026-10-20T15:09:47.316506Z
+addr = 0x541579
+func_addr = 0x5412a0
+comment = "this"
+decompiled = false
+
+[0x54474f]
+last_change = 2026-10-20T15:09:47.331812Z
+addr = 0x54474f
+func_addr = 0x5446e0
+comment = "0x138 = 312LL = INetworkSystem_GetScratchBuffer"
+decompiled = false
+
+[0x54475f]
+last_change = 2026-10-20T15:09:47.332782Z
+addr = 0x54475f
+func_addr = 0x5446e0
+comment = "0x138 = 312LL = INetworkSystem_GetScratchBuffer"
+decompiled = true
+
+[0x549ae2]
+last_change = 2026-10-20T15:09:47.347034Z
+addr = 0x549ae2
+func_addr = 0x549a20
+comment = "0x98 = 152LL = ISource2GameClients_ClientSettingsChanged"
+decompiled = true
+
+[0x54d8ad]
+last_change = 2026-10-20T15:09:47.358344Z
+addr = 0x54d8ad
+func_addr = 0x54d530
+comment = "0x140 = 320LL = INetworkSystem_PutScratchBuffer"
+decompiled = true
+
+[0x5541fa]
+last_change = 2026-10-20T15:09:47.365867Z
+addr = 0x5541fa
+func_addr = 0x5541d0
+comment = "0x150 = 336LL = INetworkServerService_GetServerSerializersCRC"
+decompiled = false
+
+[0x554204]
+last_change = 2026-10-20T15:09:47.366822Z
+addr = 0x554204
+func_addr = 0x5541d0
+comment = "0x150 = 336LL = INetworkServerService_GetServerSerializersCRC"
+decompiled = true
+
+[0x586bc3]
+last_change = 2026-10-20T15:09:47.373584Z
+addr = 0x586bc3
+func_addr = 0x586b50
+comment = "0x60 = 96LL = INetworkSystem_ShutdownGameServer"
+decompiled = true
+
+[0x587263]
+last_change = 2026-10-20T15:09:47.377557Z
+addr = 0x587263
+func_addr = 0x587170
+comment = "0x248 = 584LL = CNetworkGameServerBase_GetHostName"
+decompiled = true
+
+[0x58728f]
+last_change = 2026-10-20T15:09:47.377616Z
+addr = 0x58728f
+func_addr = 0x587170
+comment = "0xC8 = 200LL = CNetworkGameServerBase_GetMapName"
+decompiled = true
+
+[0x587906]
+last_change = 2026-10-20T15:09:47.381748Z
+addr = 0x587906
+func_addr = 0x587830
+comment = "0x118 = 280LL = INetworkSystem_GetUDPPort"
+decompiled = false
+
+[0x587942]
+last_change = 2026-10-20T15:09:47.381792Z
+addr = 0x587942
+func_addr = 0x587830
+comment = "0xC8 = 200LL = INetworkServerService_IsActiveInGame"
+decompiled = true
+
+[0x58790f]
+last_change = 2026-10-20T15:09:47.382795Z
+addr = 0x58790f
+func_addr = 0x587830
+comment = "0x118 = 280LL = INetworkSystem_GetUDPPort"
+decompiled = true
+
+[0x58b4d7]
+last_change = 2026-10-20T15:09:47.385870Z
+addr = 0x58b4d7
+func_addr = 0x58b440
+comment = "0x158 = 344LL = IGameResourceService_LockGameResourceManifest"
+decompiled = false
+
+[0x58b4dd]
+last_change = 2026-10-20T15:09:47.386866Z
+addr = 0x58b4dd
+func_addr = 0x58b440
+comment = "0x158 = 344LL = IGameResourceService_LockGameResourceManifest"
+decompiled = true
+
+[0x58c84c]
+last_change = 2026-10-20T15:09:47.389792Z
+addr = 0x58c84c
+func_addr = 0x58c700
+comment = "0x150 = 336LL = IGameResourceService_BuildCompressedManifest"
+decompiled = true
+
+[0x58ea1b]
+last_change = 2026-10-20T15:09:47.393662Z
+addr = 0x58ea1b
+func_addr = 0x58ea00
+comment = "0x118 = 280LL = INetworkClientService_IsConnecting"
+decompiled = false
+
+[0x58ea22]
+last_change = 2026-10-20T15:09:47.394621Z
+addr = 0x58ea22
+func_addr = 0x58ea00
+comment = "0x118 = 280LL = INetworkClientService_IsConnecting"
+decompiled = true
+
+[0x594a2c]
+last_change = 2026-10-20T15:09:47.397466Z
+addr = 0x594a2c
+func_addr = 0x5947e0
+comment = "0x108 = 264LL = INetworkClientService_IsConnected"
+decompiled = false
+
+[0x597dd5]
+last_change = 2026-10-20T15:09:47.401293Z
+addr = 0x597dd5
+func_addr = 0x597d90
+comment = "0x110 = 272LL = INetworkClientService_IsPutInServer"
+decompiled = false
+
+[0x597de0]
+last_change = 2026-10-20T15:09:47.402227Z
+addr = 0x597de0
+func_addr = 0x597d90
+comment = "0x110 = 272LL = INetworkClientService_IsPutInServer"
+decompiled = true
+
+[0x5a6948]
+last_change = 2026-10-20T15:09:47.412524Z
+addr = 0x5a6948
+func_addr = 0x5a61f0
+comment = "0xF8 = 248LL = INetworkSystem_BufferToBufferDecompress"
+decompiled = true
+
+[0x5ea32f]
+last_change = 2026-10-20T15:09:47.435107Z
+addr = 0x5ea32f
+func_addr = 0x5ea260
+comment = "0x90 = 144LL = IEngineServiceMgr_GetEngineWindow"
+decompiled = true
+
+[0x5f55d8]
+last_change = 2026-10-20T15:09:47.438877Z
+addr = 0x5f55d8
+func_addr = 0x5f55c0
+comment = "0xA0 = 160LL = ICvar_DispatchConCommand"
+decompiled = false
+
+[0x5f55e8]
+last_change = 2026-10-20T15:09:47.439831Z
+addr = 0x5f55e8
+func_addr = 0x5f55c0
+comment = "0xA0 = 160LL = ICvar_DispatchConCommand"
+decompiled = true
+
+[0x5f8fb8]
+last_change = 2026-10-20T15:09:47.442681Z
+addr = 0x5f8fb8
+func_addr = 0x5f8f90
+comment = "0x80 = 128LL = ICvar_CallFilterCallback"
+decompiled = false

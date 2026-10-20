@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339172Z
+addr = 0x536950
+size = 0x142
+name = "CServerSideClientBase_ProcessBaselineAck"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_ProcessBaselineAck"
+addr = 0x536950
+type = "long long"
+
+[header.args]

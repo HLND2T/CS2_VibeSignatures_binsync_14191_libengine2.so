@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339241Z
+addr = 0x5e6a30
+size = 0x76
+name = "CEngineGameUI_Shutdown"
+type = "unsigned long long *"
+
+[header]
+name = "CEngineGameUI_Shutdown"
+addr = 0x5e6a30
+type = "unsigned long long *"
+
+[header.args]

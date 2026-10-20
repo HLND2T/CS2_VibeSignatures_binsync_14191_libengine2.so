@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338915Z
+addr = 0x438e00
+size = 0x5a
+name = "CNetworkClientService_PrintSpawnGroupStatus"
+type = "long long"
+
+[header]
+name = "CNetworkClientService_PrintSpawnGroupStatus"
+addr = 0x438e00
+type = "long long"
+
+[header.args]

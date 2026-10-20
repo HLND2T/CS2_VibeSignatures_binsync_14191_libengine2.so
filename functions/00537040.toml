@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339174Z
+addr = 0x537040
+size = 0xe1
+name = "CServerSideClientBase_GetUserIDString"
+type = "unsigned long long *"
+
+[header]
+name = "CServerSideClientBase_GetUserIDString"
+addr = 0x537040
+type = "unsigned long long *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339139Z
+addr = 0x52a200
+size = 0x3d
+name = "CEngineServer_ChangeLevel"
+type = "unsigned long long *"
+
+[header]
+name = "CEngineServer_ChangeLevel"
+addr = 0x52a200
+type = "unsigned long long *"
+
+[header.args]

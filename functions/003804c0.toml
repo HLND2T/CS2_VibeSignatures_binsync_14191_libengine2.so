@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338796Z
+addr = 0x3804c0
+size = 0x20c
+name = "CHostStateMgr_RequestHS_ReloadLastSaveGame"
+type = "long long"
+
+[header]
+name = "CHostStateMgr_RequestHS_ReloadLastSaveGame"
+addr = 0x3804c0
+type = "long long"
+
+[header.args]

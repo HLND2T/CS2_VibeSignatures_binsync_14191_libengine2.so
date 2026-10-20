@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:47.249671Z
+addr = 0x5356b0
+size = 0x106
+name = "CServerSideClientBase_SetConVarUserInfo"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_SetConVarUserInfo"
+addr = 0x5356b0
+type = "long long"
+
+[header.args]

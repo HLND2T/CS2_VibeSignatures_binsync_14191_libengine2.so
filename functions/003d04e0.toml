@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338827Z
+addr = 0x3d04e0
+size = 0xdb
+name = "CGameResourceService_LockGameResourceManifest"
+type = "signed long long"
+
+[header]
+name = "CGameResourceService_LockGameResourceManifest"
+addr = 0x3d04e0
+type = "signed long long"
+
+[header.args]

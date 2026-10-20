@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:47.389792Z
+addr = 0x58c700
+size = 0x3bd
+name = "CBaseSpawnGroup_GetEntityPrerequisites"
+type = "long long"
+
+[header]
+name = "CBaseSpawnGroup_GetEntityPrerequisites"
+addr = 0x58c700
+type = "long long"
+
+[header.args]

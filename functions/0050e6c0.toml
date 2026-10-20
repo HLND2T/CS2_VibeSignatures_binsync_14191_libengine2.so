@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339047Z
+addr = 0x50e6c0
+size = 0xf3c
+name = "CNetworkGameServerBase_FillKV3ServerInfo"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_FillKV3ServerInfo"
+addr = 0x50e6c0
+type = "long long"
+
+[header.args]

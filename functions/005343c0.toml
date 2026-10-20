@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339160Z
+addr = 0x5343c0
+size = 0x216
+name = "CServerSideClientBase_SendSignonData"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_SendSignonData"
+addr = 0x5343c0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339114Z
+addr = 0x528050
+size = 0x7f
+name = "CEngineServer_GetClientConVarValue"
+type = "void *"
+
+[header]
+name = "CEngineServer_GetClientConVarValue"
+addr = 0x528050
+type = "void *"
+
+[header.args]

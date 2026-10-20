@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339061Z
+addr = 0x51aaa0
+size = 0xff
+name = "CNetworkGameServerBase_SynchronizeAndBlockUntilLoaded"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_SynchronizeAndBlockUntilLoaded"
+addr = 0x51aaa0
+type = "long long"
+
+[header.args]

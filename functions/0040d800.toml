@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:46.538528Z
+addr = 0x40d800
+size = 0xbb
+name = "CNetworkServerService_OnServerProcessNetworking"
+type = "long long"
+
+[header]
+name = "CNetworkServerService_OnServerProcessNetworking"
+addr = 0x40d800
+type = "long long"
+
+[header.args]

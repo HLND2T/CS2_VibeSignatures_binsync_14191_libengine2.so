@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339122Z
+addr = 0x528430
+size = 0xd
+name = "CEngineServer_ShowFrameTimeReport"
+type = "long long"
+
+[header]
+name = "CEngineServer_ShowFrameTimeReport"
+addr = 0x528430
+type = "long long"
+
+[header.args]

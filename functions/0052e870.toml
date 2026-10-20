@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339144Z
+addr = 0x52e870
+size = 0x167d
+name = "CNetworkServerSpawnGroupCreatePrerequisites_Init"
+type = "long long"
+
+[header]
+name = "CNetworkServerSpawnGroupCreatePrerequisites_Init"
+addr = 0x52e870
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339235Z
+addr = 0x5a71a0
+size = 0x8aa
+name = "CNetworkStringTableContainer_CreateStringTable"
+type = "long long"
+
+[header]
+name = "CNetworkStringTableContainer_CreateStringTable"
+addr = 0x5a71a0
+type = "long long"
+
+[header.args]

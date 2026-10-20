@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338857Z
+addr = 0x403100
+size = 0x19
+name = "CNetworkServerService_OnServerEndSimulate"
+type = "long long"
+
+[header]
+name = "CNetworkServerService_OnServerEndSimulate"
+addr = 0x403100
+type = "long long"
+
+[header.args]

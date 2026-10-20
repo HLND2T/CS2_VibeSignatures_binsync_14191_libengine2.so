@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338844Z
+addr = 0x3da7f0
+size = 0x10
+name = "CGameResourceService_RegisterEventMap"
+type = "long long"
+
+[header]
+name = "CGameResourceService_RegisterEventMap"
+addr = 0x3da7f0
+type = "long long"
+
+[header.args]

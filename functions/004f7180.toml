@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338997Z
+addr = 0x4f7180
+size = 0x2a
+name = "CEngineClient_DumpNetStats"
+type = "long long (__fastcall *)(__int128 *, __int128 *, long long)"
+
+[header]
+name = "CEngineClient_DumpNetStats"
+addr = 0x4f7180
+type = "long long (__fastcall *)(__int128 *, __int128 *, long long)"
+
+[header.args]

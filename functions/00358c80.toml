@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338725Z
+addr = 0x358c80
+size = 0x767
+name = "MainLoop"
+type = "long long"
+
+[header]
+name = "MainLoop"
+addr = 0x358c80
+type = "long long"
+
+[header.args]

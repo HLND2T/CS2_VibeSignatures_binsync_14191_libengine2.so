@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339076Z
+addr = 0x520070
+size = 0x11
+name = "CNetworkGameServerBase_Shutdown"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_Shutdown"
+addr = 0x520070
+type = "long long"
+
+[header.args]

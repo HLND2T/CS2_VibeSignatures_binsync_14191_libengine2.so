@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338984Z
+addr = 0x4f1ed0
+size = 0x1ca
+name = "CNetworkGameClient_FullConnect"
+type = "long long"
+
+[header]
+name = "CNetworkGameClient_FullConnect"
+addr = 0x4f1ed0
+type = "long long"
+
+[header.args]

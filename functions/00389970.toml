@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338813Z
+addr = 0x389970
+size = 0x866
+name = "CLoopTypeClientServer_OutputListeners"
+type = "unsigned long long"
+
+[header]
+name = "CLoopTypeClientServer_OutputListeners"
+addr = 0x389970
+type = "unsigned long long"
+
+[header.args]

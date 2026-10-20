@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338720Z
+addr = 0x357b60
+size = 0xc0
+name = "GetSteamUniverse"
+type = "long long"
+
+[header]
+name = "GetSteamUniverse"
+addr = 0x357b60
+type = "long long"
+
+[header.args]

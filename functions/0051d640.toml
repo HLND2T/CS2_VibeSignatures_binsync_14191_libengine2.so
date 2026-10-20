@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339071Z
+addr = 0x51d640
+size = 0x29b
+name = "CNetworkGameServerBase_ReserveServerForQueuedGame"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_ReserveServerForQueuedGame"
+addr = 0x51d640
+type = "long long"
+
+[header.args]

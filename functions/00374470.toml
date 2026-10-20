@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:46.276247Z
+addr = 0x374470
+size = 0xc49
+name = "CEngineServiceMgr__MainLoop"
+type = "long long"
+
+[header]
+name = "CEngineServiceMgr__MainLoop"
+addr = 0x374470
+type = "long long"
+
+[header.args]

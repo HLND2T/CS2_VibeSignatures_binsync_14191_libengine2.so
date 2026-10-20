@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339084Z
+addr = 0x521c40
+size = 0x24a
+name = "CNetworkGameServer_ActivateServer"
+type = "long long"
+
+[header]
+name = "CNetworkGameServer_ActivateServer"
+addr = 0x521c40
+type = "long long"
+
+[header.args]

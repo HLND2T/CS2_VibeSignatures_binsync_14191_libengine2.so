@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:46.973119Z
+addr = 0x515ac0
+size = 0x2529
+name = "CNetworkGameServerBase_ConnectClient"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_ConnectClient"
+addr = 0x515ac0
+type = "long long"
+
+[header.args]

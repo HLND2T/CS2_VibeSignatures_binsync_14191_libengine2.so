@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:46.670085Z
+addr = 0x441d40
+size = 0x350
+name = "CRenderService_OnClientOutput"
+type = "long long"
+
+[header]
+name = "CRenderService_OnClientOutput"
+addr = 0x441d40
+type = "long long"
+
+[header.args]

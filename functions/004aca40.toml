@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338941Z
+addr = 0x4aca40
+size = 0xbcb
+name = "CNetworkGameClient_ProcessPacketEntities"
+type = "long long"
+
+[header]
+name = "CNetworkGameClient_ProcessPacketEntities"
+addr = 0x4aca40
+type = "long long"
+
+[header.args]

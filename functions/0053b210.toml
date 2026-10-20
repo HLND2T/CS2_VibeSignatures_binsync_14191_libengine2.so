@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339189Z
+addr = 0x53b210
+size = 0x138
+name = "CServerSideClientBase_SendNetMessage"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_SendNetMessage"
+addr = 0x53b210
+type = "long long"
+
+[header.args]

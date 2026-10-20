@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338889Z
+addr = 0x4158e0
+size = 0x1b68
+name = "CNetworkServerService_RegisterEventMapInternal"
+type = "long long"
+
+[header]
+name = "CNetworkServerService_RegisterEventMapInternal"
+addr = 0x4158e0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338888Z
+addr = 0x414a90
+size = 0x15b
+name = "CNetworkServerService_OnSimpleLoopFrameUpdate"
+type = "long long (*)(void)"
+
+[header]
+name = "CNetworkServerService_OnSimpleLoopFrameUpdate"
+addr = 0x414a90
+type = "long long (*)(void)"
+
+[header.args]

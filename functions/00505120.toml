@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339031Z
+addr = 0x505120
+size = 0x416
+name = "CNetworkGameServerBase_BroadcastPrintf"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_BroadcastPrintf"
+addr = 0x505120
+type = "long long"
+
+[header.args]

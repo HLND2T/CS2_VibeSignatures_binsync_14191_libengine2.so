@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338963Z
+addr = 0x4d8400
+size = 0x34f
+name = "CNetworkGameClientBase_AsyncUnloadSpawnGroup_Internal"
+type = "long long"
+
+[header]
+name = "CNetworkGameClientBase_AsyncUnloadSpawnGroup_Internal"
+addr = 0x4d8400
+type = "long long"
+
+[header.args]

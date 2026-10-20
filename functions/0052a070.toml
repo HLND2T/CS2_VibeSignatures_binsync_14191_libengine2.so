@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339137Z
+addr = 0x52a070
+size = 0x186
+name = "CNetworkGameServer_ChangeLevel"
+type = "long long"
+
+[header]
+name = "CNetworkGameServer_ChangeLevel"
+addr = 0x52a070
+type = "long long"
+
+[header.args]

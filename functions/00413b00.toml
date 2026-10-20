@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338885Z
+addr = 0x413b00
+size = 0xc9
+name = "CNetworkServerService_GetServerSerializersCRC"
+type = "long long"
+
+[header]
+name = "CNetworkServerService_GetServerSerializersCRC"
+addr = 0x413b00
+type = "long long"
+
+[header.args]

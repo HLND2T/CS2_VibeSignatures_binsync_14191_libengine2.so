@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338924Z
+addr = 0x4390e0
+size = 0x59
+name = "CNetworkClientService_FinishChangeLevel"
+type = "long long"
+
+[header]
+name = "CNetworkClientService_FinishChangeLevel"
+addr = 0x4390e0
+type = "long long"
+
+[header.args]

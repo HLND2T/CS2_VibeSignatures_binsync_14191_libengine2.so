@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338992Z
+addr = 0x4f63e0
+size = 0x1de
+name = "CNetworkGameClient_PrintNetStats"
+type = "long long (__fastcall *)(__int128 *, __int128 *, long long)"
+
+[header]
+name = "CNetworkGameClient_PrintNetStats"
+addr = 0x4f63e0
+type = "long long (__fastcall *)(__int128 *, __int128 *, long long)"
+
+[header.args]

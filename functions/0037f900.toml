@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338784Z
+addr = 0x37f900
+size = 0x14c
+name = "CHostStateMgr_RequestHS_Connect"
+type = "long long"
+
+[header]
+name = "CHostStateMgr_RequestHS_Connect"
+addr = 0x37f900
+type = "long long"
+
+[header.args]

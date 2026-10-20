@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339164Z
+addr = 0x534a00
+size = 0x3d7
+name = "CServerSideClientBase_Inactivate"
+type = "long long"
+
+[header]
+name = "CServerSideClientBase_Inactivate"
+addr = 0x534a00
+type = "long long"
+
+[header.args]

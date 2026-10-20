@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:46.693654Z
+addr = 0x49a220
+size = 0x4ac
+name = "CDemoRecorder_WriteSpawnGroups"
+type = "long long"
+
+[header]
+name = "CDemoRecorder_WriteSpawnGroups"
+addr = 0x49a220
+type = "long long"
+
+[header.args]

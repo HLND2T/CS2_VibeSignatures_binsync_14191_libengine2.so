@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339204Z
+addr = 0x548dd0
+size = 0x1c9
+name = "CServerSideClient_ProcessMove"
+type = "long long"
+
+[header]
+name = "CServerSideClient_ProcessMove"
+addr = 0x548dd0
+type = "long long"
+
+[header.args]

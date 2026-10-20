@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339105Z
+addr = 0x527540
+size = 0x10f
+name = "CEngineServer_GetClientSteamID"
+type = "long long"
+
+[header]
+name = "CEngineServer_GetClientSteamID"
+addr = 0x527540
+type = "long long"
+
+[header.args]

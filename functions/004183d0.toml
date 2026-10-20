@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:46.582884Z
+addr = 0x4183d0
+size = 0x275
+name = "CNetworkServerService_StartupServer"
+type = "long long"
+
+[header]
+name = "CNetworkServerService_StartupServer"
+addr = 0x4183d0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338747Z
+addr = 0x3700b0
+size = 0x16
+name = "CEngineServiceMgr_GetAddonsString"
+type = "void *"
+
+[header]
+name = "CEngineServiceMgr_GetAddonsString"
+addr = 0x3700b0
+type = "void *"
+
+[header.args]

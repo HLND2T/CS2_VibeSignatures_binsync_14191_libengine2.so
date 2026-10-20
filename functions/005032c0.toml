@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339015Z
+addr = 0x5032c0
+size = 0x81
+name = "CNetworkGameServerBase_SetGameSpawnGroupMgr"
+type = "void"
+
+[header]
+name = "CNetworkGameServerBase_SetGameSpawnGroupMgr"
+addr = 0x5032c0
+type = "void"
+
+[header.args]

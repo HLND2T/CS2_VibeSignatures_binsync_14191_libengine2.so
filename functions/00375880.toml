@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338764Z
+addr = 0x375880
+size = 0xdc
+name = "CEngineServiceMgr_UnregisterEngineService"
+type = "unsigned long long *"
+
+[header]
+name = "CEngineServiceMgr_UnregisterEngineService"
+addr = 0x375880
+type = "unsigned long long *"
+
+[header.args]

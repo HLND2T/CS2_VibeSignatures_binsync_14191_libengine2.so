@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338847Z
+addr = 0x3f9850
+size = 0x498
+name = "CInputService_ProcessConVar"
+type = "long long"
+
+[header]
+name = "CInputService_ProcessConVar"
+addr = 0x3f9850
+type = "long long"
+
+[header.args]

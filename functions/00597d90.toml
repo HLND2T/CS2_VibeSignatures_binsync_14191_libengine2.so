@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:47.402227Z
+addr = 0x597d90
+size = 0x54
+name = "CInputService_IsClientOnlyCommandAllowed"
+type = "long long"
+
+[header]
+name = "CInputService_IsClientOnlyCommandAllowed"
+addr = 0x597d90
+type = "long long"
+
+[header.args]

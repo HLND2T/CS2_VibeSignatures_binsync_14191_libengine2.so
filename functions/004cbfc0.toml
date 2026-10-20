@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338959Z
+addr = 0x4cbfc0
+size = 0x268
+name = "CNetworkGameClientBase_ProcessSplitScreen"
+type = "long long"
+
+[header]
+name = "CNetworkGameClientBase_ProcessSplitScreen"
+addr = 0x4cbfc0
+type = "long long"
+
+[header.args]

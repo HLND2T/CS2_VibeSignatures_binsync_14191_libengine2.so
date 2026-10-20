@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:47.048000Z
+addr = 0x522100
+size = 0x68a
+name = "CNetworkGameServer_SpawnServer"
+type = "long long"
+
+[header]
+name = "CNetworkGameServer_SpawnServer"
+addr = 0x522100
+type = "long long"
+
+[header.args]

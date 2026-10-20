@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.339131Z
+addr = 0x529180
+size = 0x86
+name = "CEngineServer_IsClientLowViolence"
+type = "long long"
+
+[header]
+name = "CEngineServer_IsClientLowViolence"
+addr = 0x529180
+type = "long long"
+
+[header.args]

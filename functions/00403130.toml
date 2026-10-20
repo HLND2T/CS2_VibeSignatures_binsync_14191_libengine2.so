@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:44.338859Z
+addr = 0x403130
+size = 0x1b
+name = "CNetworkServerService_IsActiveInGame"
+type = "bool"
+
+[header]
+name = "CNetworkServerService_IsActiveInGame"
+addr = 0x403130
+type = "bool"
+
+[header.args]
